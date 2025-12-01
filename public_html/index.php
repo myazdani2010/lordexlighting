@@ -12,7 +12,7 @@ session_start();
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Dubai Lights</title>
+    <title>The Royal Light</title>
     <style type="text/css">
         <!--
         body, td, th {
@@ -29,27 +29,27 @@ session_start();
 
 <table width="315" border="0">
     <caption>
-        <font size="+2" color="#003399"> Dubai Lights</font>
+        <font size="+2" color="#003399"> The Royal Light</font>
     </caption>
     <tr>
         <td width="72">Add:</td>
-        <td width="227">Shop #39 & 41, Building #03, Barwa Village, Doha, Qatar</td>
+        <td width="227">Shop No 42-44, Building No 3, Barwa Village, Doha, Qatar</td>
     </tr>
     <tr>
         <td>P.O.Box:</td>
         <td>82936</td>
     </tr>
-    <tr>
+    /* <tr>
         <td>Tel.:</td>
         <td>+974 - 4481 8471/ 4460 4209</td>
     </tr>
     <tr>
         <td>Fax:</td>
         <td>+974 - 4467 5060</td>
-    </tr>
+    </tr> */
     <tr>
         <td>Email:</td>
-        <td>info@dubai-lights.com</td>
+        <td>info@lordexlighting.com</td>
     </tr>
 </table>
 <form id='login' action='loginproc.php' method='post'>
