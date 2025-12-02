@@ -37,7 +37,10 @@ session_start();
         <td>P.O.Box:</td>
         <td>82936</td>
     </tr>
-
+    <tr>
+        <td>Tel:</td>
+        <td>+974 4412 3672 / +974 6653 5259</td>
+    </tr>
     <tr>
         <td>Email:</td>
         <td>info@lordexlighting.com</td>
