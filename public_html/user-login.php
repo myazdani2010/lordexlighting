@@ -25,7 +25,7 @@ session_start();
 </p>
 <p>&nbsp;</p>
 
-<table width="315" border="0">
+<table width="400" border="0">
     <caption>
         <font size="+2" color="#003399"> The Royal Light</font>
     </caption>
