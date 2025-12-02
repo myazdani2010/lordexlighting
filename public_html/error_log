@@ -752,3 +752,13 @@ Stack trace:
 #0 /home1/lordexli/public_html/advsearchresult.php(125): mysqli->query('select * from i...')
 #1 {main}
   thrown in /home1/lordexli/public_html/advsearchresult.php on line 125
+[01-Dec-2025 22:43:31 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by ItemNo' at line 1 in /home1/lordexli/public_html/advsearchresult.php:125
+Stack trace:
+#0 /home1/lordexli/public_html/advsearchresult.php(125): mysqli->query('select * from i...')
+#1 {main}
+  thrown in /home1/lordexli/public_html/advsearchresult.php on line 125
+[01-Dec-2025 22:43:47 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by ItemNo' at line 1 in /home1/lordexli/public_html/advsearchresult.php:125
+Stack trace:
+#0 /home1/lordexli/public_html/advsearchresult.php(125): mysqli->query('select * from i...')
+#1 {main}
+  thrown in /home1/lordexli/public_html/advsearchresult.php on line 125
