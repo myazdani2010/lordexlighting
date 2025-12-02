@@ -14,11 +14,9 @@ session_start();
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>The Royal Light</title>
     <style type="text/css">
-        <!--
         body, td, th {
             font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
         }
-        -->
     </style>
 </head>
 
@@ -39,14 +37,7 @@ session_start();
         <td>P.O.Box:</td>
         <td>82936</td>
     </tr>
-    /* <tr>
-        <td>Tel.:</td>
-        <td>+974 - 4481 8471/ 4460 4209</td>
-    </tr>
-    <tr>
-        <td>Fax:</td>
-        <td>+974 - 4467 5060</td>
-    </tr> */
+
     <tr>
         <td>Email:</td>
         <td>info@lordexlighting.com</td>

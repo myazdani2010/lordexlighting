@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lordexlighting.com/sitemap.xml
